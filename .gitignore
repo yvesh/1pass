@@ -1,0 +1,7 @@
+/cmake-build
+/1Password
+CMakeFiles
+CMakeCache.txt
+Makefile
+1pass
+cmake_install.cmake
